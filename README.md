@@ -7,6 +7,7 @@ Just set `apiServerHost` as a Heroku config variable, and have students point th
   - For: `http://www.omdbapi.com` Use: `https://g-omdbapi.herokuapp.com`
   - For: `https://api.brewerydb.com` Use: `https://g44-brewerydb.herokuapp.com`
   - For: `https://wikipedia.com` Use: `https://g-wikipedia.herokuapp.com/`
+  - For: `http://api.yummly.com` Use: `https://g-yummly.herokuapp.com/`
   - For: `https://api.foodpairing.com` Use: `https://g-foodpairing.herokuapp.com/`
   - For: 'http://food2fork.com/' Use: 'http://g-food2fork.herokuapp.com/'
 
